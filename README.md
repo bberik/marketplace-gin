@@ -8,8 +8,7 @@ To run the app:
 
 OR 
 
-1. ```docker run berik23/marketplacegin```
-
+1. ```docker run -p 8080:5500 berik23/marketplacegin```
 ## Routes:
 
   - Product Routes:
@@ -32,6 +31,7 @@ OR
   
  ![image](https://user-images.githubusercontent.com/85312257/202837501-64e6afc4-2134-4474-91c9-6d8d1a63760a.png)
 
+### Reminder: Use the token in the response body of Sign In route in the authorization header to get access to the protected routes.
 
 ## Examples of request bodies:
 
