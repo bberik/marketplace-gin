@@ -8,7 +8,7 @@ To run the app:
 
 OR 
 
-1. ```docker run bberik/marketplace-gin```
+1. ```docker run berik23/marketplacegin```
 
 ## Routes:
 
