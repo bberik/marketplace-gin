@@ -125,3 +125,26 @@ OR
 }
 ```
     
+## Access:
+
+- Guest (unauthorized) users:
+  - can view al products
+  - can view particular product
+  - can view products by category
+  - can search products
+  - can sign in
+  - can sign up
+- Signed in (authorized) users:
+  - all above
+  - can add/update/delete products in/to cart
+  - can buy products directly
+  - can buy products from cart
+  - can add/edit/update addresses
+  - can view order history
+  - can monitor order status
+  - can update/delete account
+- Sellers:
+  - all above
+  - can add/update/delete products
+  - can view list of orders their shop received
+  - can change order status (shipped, canceled, processed and etc.)
