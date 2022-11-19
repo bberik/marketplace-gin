@@ -148,3 +148,57 @@ OR
   - can add/update/delete products
   - can view list of orders their shop received
   - can change order status (shipped, canceled, processed and etc.)
+
+## Models used to design the system:
+
+### Product:
+  - productID
+  - productName
+  - description
+  - category
+  - images (array of URLs)
+  - items (array) :
+    - itemID
+    - color
+    - size (can be used as options)
+    - instock (amount that can be ordered)
+    - price
+    - discount
+
+### Content (used to wrap items of products into cart or order):
+  - productID
+  - itemID
+  - quantity
+
+### User:
+  - userID
+  - username
+  - fullname
+  - email
+  - password
+  - addresses (array)
+  - cart (array of contents)
+  - orders (array of orders)
+ 
+### Shop:
+  - userID (owner of shop)
+  - shop name
+  - shop address
+  - products (array of products shop sells)
+  - orders (array of orders shop received)
+ 
+ ### Order:
+  - orderID
+  - order content
+  - shipping address
+  - order status (array of statuses):
+    - status
+    - time status created at
+
+### Address:
+  - details
+  - building
+  - street
+  - area:
+    - city
+    - country
