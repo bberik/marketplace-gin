@@ -9,3 +9,11 @@ To run the app:
 OR 
 
 1. ```docker run bberik/marketplace-gin```
+
+Routes:
+
+  Product Routes:
+  
+    ![image](https://user-images.githubusercontent.com/85312257/202835487-06a6d58d-4e05-4a31-b248-887f8a69dff3.png)
+    
+    
