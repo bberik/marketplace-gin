@@ -14,6 +14,23 @@ Routes:
 
   Product Routes:
   
-    ![image](https://user-images.githubusercontent.com/85312257/202835487-06a6d58d-4e05-4a31-b248-887f8a69dff3.png)
+ ![image](https://user-images.githubusercontent.com/85312257/202837394-11b609eb-f5fb-42c9-8570-5b7859616d5a.png)
+
+  User Routes:
+ 
+ ![image](https://user-images.githubusercontent.com/85312257/202837435-c51eec39-c29e-45fb-b25e-c3520241c600.png)
+
+  Cart Routes:
+  
+ ![image](https://user-images.githubusercontent.com/85312257/202837457-a8ff0715-9b4a-4698-a5c4-01c0a7bdb692.png)
+
+  Order Routes:
+  
+ ![image](https://user-images.githubusercontent.com/85312257/202837481-476a03a8-b017-4620-bafe-a9041eb1d1c8.png)
+
+  Shop Routes:
+  
+ ![image](https://user-images.githubusercontent.com/85312257/202837501-64e6afc4-2134-4474-91c9-6d8d1a63760a.png)
+
     
     
