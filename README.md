@@ -1,4 +1,4 @@
-# Marketplace Platform (Multi-vendor shop) API with Gin (Golang web framework) and JWT authentification.
+# Marketplace Platform (Multi-vendor shop) API with Gin (Golang web framework) and MongoDB.
 
 To run the app: 
 
